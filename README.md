@@ -25,5 +25,5 @@ This repository contains the source code for my full-stack web application built
 
 ## Fun Fact
 This project was inspired by my passion for connecting people and my interest in social media platforms.
-# ###I'm Janaka Premathilaka,
-📫 Feel free to reach out to me at janaka2@gmail.com , on [LinkedIn](https://www.linkedin.com/in/janakap/) or give me a call at +41 762248445. 💌 🚀
+# I'm Janaka Premathilaka,
+📫 Feel free to reach out to me at janaka2@gmail.com , on [LinkedIn](https://www.linkedin.com/in/janakap/) or give me a call at +41 76 224 84 45. 💌 🚀
